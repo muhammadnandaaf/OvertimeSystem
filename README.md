@@ -1,8 +1,8 @@
 # 🕰️ SPL System (Overtime Order System)
 
-> A hierarchical overtime management system designed for corporate efficiency. Seamlessly connecting Employees, Supervisors, Managers, and HR Admins in an elegant digital workflow.
+A hierarchical overtime management system designed for corporate efficiency. Seamlessly connecting Employees, Supervisors, Managers, and HR Admins in an elegant digital workflow.
 ---
-## 🛠️ Stack Tech
+## 🛠️ Tech Stack
 
 Built using a modern technology ecosystem to ensure performance, security, and scalability:
 | Category | Technology | Badge |
@@ -74,10 +74,29 @@ Built using a modern technology ecosystem to ensure performance, security, and s
 ## 📸 Screenshot & Preview
 > *Click on a section to expand the image*
 
-<details> <summary><b>🖼️ Global Monitoring Dashboard (HR Admin)</b></summary> <p align="center"><img src="doc-img/" width="800"></p> </details>
+<details> <summary><b>🖼️ First Page </b></summary> <p align="center"><img src="doc-img/in-page.png" width="800"></p> </details>
 
-</details>
+<details> <summary><b>🖼️ Login Page </b></summary> <p align="center"><img src="doc-img/login-page.png" width="800"></p> </details>
 
+<details> <summary><b>🖼️ Supervisor Dashboard </b></summary> <p align="center"><img src="doc-img/dashboard-spv.png" width="800"></p> </details>
+
+<details> <summary><b>🖼️ Create Overtime Letter </b></summary> <p align="center"><img src="doc-img/create-letter.png" width="800"></p> </details>
+
+<details> <summary><b>🖼️ Register New Employee </b></summary> <p align="center"><img src="doc-img/register-employee.png" width="800"></p> </details>
+
+<details> <summary><b>🖼️ Manager Dashboard </b></summary> <p align="center"><img src="doc-img/dashboard-manager.png" width="800"></p> </details>
+
+<details> <summary><b>🖼️ Manager Approval </b></summary> <p align="center"><img src="doc-img/approval-manager.png" width="800"></p> </details>
+
+<details> <summary><b>🖼️ Monitoring Dashboard (HR Admin) </b></summary> <p align="center"><img src="doc-img/dashboard-admin.png" width="800"></p> </details>
+
+<details> <summary><b>🖼️ HR Verfivation</b></summary> <p align="center"><img src="doc-img/hr-verif.png" width="800"></p> </details>
+
+<details> <summary><b>🖼️ Management Structural Registration </b></summary> <p align="center"><img src="doc-img/regis-management.png" width="800"></p> </details>
+
+<details> <summary><b>🖼️ Employee Dashboard </b></summary> <p align="center"><img src="doc-img/dashboard-employee.png" width="800"></p> </details>
+
+<details> <summary><b>🖼️ Overtime Letter Preview </b></summary> <p align="center"><img src="doc-img/preview-letter.png" width="800"></p> </details>
 
 ---
 
